@@ -1,0 +1,1 @@
+This code essentially reduces the number of scenarios while preserving the overall characteristics of the demand data. The key steps involve calculating distances, updating probabilities, and iteratively removing scenarios based on a cost metric.
